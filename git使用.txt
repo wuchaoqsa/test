@@ -1,0 +1,7 @@
+git上传仓库
+$ git add test.txt        //更新test.txt文件
+$ git commit -m ‘first commit’     //提交更新，并注释信息“first commit”
+$ git push origin master
+
+git下载到本地仓库
+$ git clone git@github.com:yourName/gitskills.git
